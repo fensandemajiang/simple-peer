@@ -1,14 +1,14 @@
 {
-  "name": "simple-peer",
-  "description": "Simple one-to-one WebRTC video/voice and data channels",
+  "name": "vite-compatible-simple-peer",
+  "description": "Simple one-to-one WebRTC video/voice and data channels compatible with Vite",
   "version": "9.11.0",
   "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "https://feross.org"
+    "name": "Sean D'Souza",
+    "email": "seangdsouza@gmail.com",
+    "url": "https://github.com/fensandemajiang/simple-peer"
   },
   "bugs": {
-    "url": "https://github.com/feross/simple-peer/issues"
+    "url": "https://github.com/fensandemajiang/simple-peer/issues"
   },
   "dependencies": {
     "buffer": "^6.0.3",
@@ -17,7 +17,7 @@
     "get-browser-rtc": "^1.1.0",
     "queue-microtask": "^1.2.3",
     "randombytes": "^2.1.0",
-    "readable-stream": "^3.6.0"
+    "vite-compatible-readable-stream": "^3.6.0"
   },
   "devDependencies": {
     "airtap": "^4.0.3",
